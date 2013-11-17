@@ -1,1 +1,7 @@
-
+nate:
+    first_name: "Nathaniel"
+    last_name: "Johnson"
+    email: "johnsonnate6@gmail.com"
+    profile_name:
+    password: "password"
+    password_confirmation: "password"
